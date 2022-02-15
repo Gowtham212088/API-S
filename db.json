@@ -1,4 +1,6 @@
- const INITIAL_MOVIES = [
+
+{
+ INITIAL_MOVIES = [
   {
     "name": "Iron Man",
     "poster": "http://images4.fanpop.com/image/photos/20600000/Iron-man-Poster-iron-man-the-movie-20685585-864-1280.jpg",
@@ -55,3 +57,4 @@
     "summary": "Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side."
   }
 ]
+}
